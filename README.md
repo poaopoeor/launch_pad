@@ -5,10 +5,10 @@ A Flutter Launch Pad project.
 ## Getting Started
 * `Color code`
 <table>
-    <th>
-        <td>Center Color</td>
-        <td>Outlined Color</td>
-    </th>
+    <tr>
+        <th>Center Color</th>
+        <th>Outlined Color </th>
+    </tr>
     <tr>
         <td>Color(0xffADCBFC)</td>
         <td>Color(0xff067CCB)</td>
